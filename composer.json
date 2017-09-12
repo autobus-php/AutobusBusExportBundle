@@ -1,8 +1,8 @@
 {
-  "name": "autobus-php/autobus-export-bundle",
+  "name": "autobus-php/autobus-bus-export-bundle",
   "license": "MIT",
   "type": "symfony-bundle",
-  "description": "AutobusExportBundle",
+  "description": "AutobusBusExportBundle",
   "authors": [
     {
       "name": "Michael BOUVY",
@@ -15,7 +15,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Autobus\\Bundle\\ExportBundle\\": ""
+      "Autobus\\Bundle\\BusExportBundle\\": ""
     }
   },
   "require": {
